@@ -8,7 +8,7 @@ During this project, I'll be improving on a web application that walks users thr
 
 # Live Example
 
-<a href="https://RomanFSDev.github.io/react-redux-sample/">Click Me!</a>
+<a href="https://romanfsdev.github.io/home-loan/">Click Me!</a>
 
 ## Setup
 
